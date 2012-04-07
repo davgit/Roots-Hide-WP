@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Roots Hide WP
-Plugin URI: http://joshbetz.com/2012/03/roots-hide-wp/
+Plugin URI: http://joshbetz.com/2012/04/roots-hide-wp/
 Description: The plugin version of Ben Word's blogpost, http://benword.com/2011/how-to-hide-that-youre-using-wordpress/.
 Author: Josh Betz
 Version: 0.1
